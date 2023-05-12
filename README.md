@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-chicmic&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-chicmic" /> </p>
 
-- 🔭 I’m currently working on **.NET Core**
+- 🌱 I’m currently learning **.NET Core**
 
-- 🌱 I’m currently learning **Web API and React**
-
-- 💬 Ask me about **React,WEB API**
+- 💬 Ask me about **React and WEB API**
 
 - 📫 How to reach me **rakeshkumar23@chicmic.co.in**
 
