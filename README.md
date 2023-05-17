@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React and WEB API**
 
-- 📫 How to reach me **rakeshkumar23@chicmic.co.in**
+- 📫 How to reach me **rakesh.kumar23@chicmic.co.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
