@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">.NET Developer</h3>
+<h3 align="center">.NET Core Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-chicmic&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-chicmic" /> </p>
 
